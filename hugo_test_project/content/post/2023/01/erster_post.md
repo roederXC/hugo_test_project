@@ -1,10 +1,21 @@
 ---
 title: "Erster Beitrag"
 date: 2023-01-24T07:48:37+01:00
-draft: true
----
+draft: false
+description: "Hier ist die Beschreibung der Darstellung meines Hugo Test"
+tags: 
+- post
+- test
+keywords:
+- lustig
+- videos
+- sketche
+# Mehr Configs unter gohugo.io/content-management/front-matter
 
+---
 # Überschrift
+
+A very warm welcome to all _XC members_. Especially for **Basi**.
 
 ## 1.Aufzählungen
 

@@ -1,4 +1,5 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://roederxc.github.io/'
 languageCode = 'en-us'
 title = 'Test Project roederXC'
 theme = "beautifulhugo"
+keywords = ["lustig","sketche","Videos"]
