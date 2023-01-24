@@ -2,6 +2,7 @@
 title: "Erster Beitrag"
 date: 2023-01-24T07:48:37+01:00
 draft: false
+weight: 100
 description: "Hier ist die Beschreibung der Darstellung meines Hugo Test"
 tags: ["Tag1","Test"]
 ---
