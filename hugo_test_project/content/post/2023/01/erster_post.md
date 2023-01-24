@@ -3,15 +3,7 @@ title: "Erster Beitrag"
 date: 2023-01-24T07:48:37+01:00
 draft: false
 description: "Hier ist die Beschreibung der Darstellung meines Hugo Test"
-tags: 
-- post
-- test
-keywords:
-- lustig
-- videos
-- sketche
-# Mehr Configs unter gohugo.io/content-management/front-matter
-
+tags: ["Tag1","Test"]
 ---
 # Überschrift
 

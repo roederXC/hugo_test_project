@@ -3,3 +3,7 @@ languageCode = 'en-us'
 title = 'Test Project roederXC'
 theme = "beautifulhugo"
 keywords = ["lustig","sketche","Videos"]
+
+[taxonomies]
+    tag = "tags"
+    farbe = "farben"
