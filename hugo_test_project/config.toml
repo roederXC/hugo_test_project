@@ -6,6 +6,7 @@ keywords = ["lustig","sketche","Videos"]
 
 [permalinks]
     post = "/:year/:title"
+    sites = "/:title"
 
 [taxonomies]
     tag = "tags"
@@ -16,13 +17,6 @@ keywords = ["lustig","sketche","Videos"]
     homepage = "https://github.com/roederXC/"
 
 ### Navigation
-[[menu.main]]
-    name = "about me"
-    pre = "<i class='nav about'>"
-    weight = 5
-    identifier = "about"
-    url = "/about/"
-
 [[menu.main]]
     name = "farben"
     pre = "<i class='nav farben'>"
