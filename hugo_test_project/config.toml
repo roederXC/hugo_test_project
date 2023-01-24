@@ -7,3 +7,38 @@ keywords = ["lustig","sketche","Videos"]
 [taxonomies]
     tag = "tags"
     farbe = "farben"
+
+[author]
+    name = "XCroeder"
+    homepage = "https://github.com/roederXC/"
+
+### Navigation
+[[menu.main]]
+    name = "about me"
+    pre = "<i class='nav about'>"
+    weight = 5
+    identifier = "about"
+    url = "/about/"
+
+[[menu.main]]
+    name = "farben"
+    pre = "<i class='nav farben'>"
+    weight = 2
+    identifier = "farben"
+    url = "/farben/"
+
+[[menu.main]]
+    name = "rot"
+    pre = "<i class='nav subitem'>"
+    weight = 1
+    parent = "farben"
+    identifier = "red"
+    url = "/farben/red/"
+
+[[menu.main]]
+    name = "grün"
+    pre = "<i class='nav subitem'>"
+    weight = 2
+    parent = "farben"
+    identifier = "green"
+    url = "/farben/green/"
