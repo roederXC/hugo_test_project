@@ -4,6 +4,9 @@ title = 'Test Project roederXC'
 theme = "beautifulhugo"
 keywords = ["lustig","sketche","Videos"]
 
+[permalinks]
+    post = "/:year/:title"
+
 [taxonomies]
     tag = "tags"
     farbe = "farben"
