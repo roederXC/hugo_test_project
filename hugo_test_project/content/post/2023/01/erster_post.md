@@ -10,7 +10,7 @@ tags: ["Tag1","Test"]
 
 A very warm welcome to all _XC members_. Especially for **Basi**.
 
-![Nice Pic](/img/space_small.jpg)
+![Nice Pic](/img/space.jpg)
 
 ## 1.Aufzählungen
 
